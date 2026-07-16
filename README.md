@@ -86,8 +86,6 @@ The secondary winding steps up the voltage significantly, producing high-frequen
 
 # 📊 Circuit Diagram
 
-*(Insert the circuit diagram image here)*
-
 ```
 images/circuit_diagram.png
 ```
@@ -121,7 +119,6 @@ Tesla-Coil/
 │
 ├── README.md
 ├── Report.pdf
-├── Circuit_Diagram.png
 ├── images/
 │   ├── final_project.jpg
 │   ├── circuit_diagram.png
